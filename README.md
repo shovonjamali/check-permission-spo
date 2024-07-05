@@ -5,4 +5,6 @@
 - Traverses all the lists and libraries to check the permission level configured in a master list
 - Creates merged report with links to items and send notification to appropriate groups/users
 - Capable of sending notification email with attachment as a report using EWS
+- Can use mock data while in developing stage
 - Fully configured and customizable app can run as a background job (daemon) and uses client-side authentication
+- Logs the result
